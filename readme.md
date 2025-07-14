@@ -90,6 +90,7 @@
 - [Testing](#testing)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
+- [Awesome Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs) - Recursos y herramientas para desarrollo multiplataforma con Node.js.
 
 ## Platforms
 
